@@ -3,9 +3,9 @@ import React from "react";
 const New = () => {
 	return (
 		<div>
-			<section className='py-20  mb-14'>
+			<section className='py-20 mb-14'>
 				<h2 className='flex justify-center font-serif text-3xl font-semibold '>
-					The Most Trusted Cryptocurrency Platform
+					All new resources will appear here
 				</h2>
 				<div className='flex flex-col gap-6 2xl:gap-2 2xl:flex-row'>
 					{/* col1 */}

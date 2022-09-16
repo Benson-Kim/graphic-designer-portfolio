@@ -17,9 +17,11 @@ import LandingPage from "../assets/kienyeji/landingpage.svg";
 import Benson from "../assets/kienyeji/Benson .jpg";
 import PaperWireFrameFDV1 from "../assets/kienyeji/kienyeji homepage v1-1.jpg";
 import DigitalWireFrameFD from "../assets/kienyeji/Homepage digi wireframe.svg";
-import Digital2WireFrameFD from "../assets/kienyeji/Homepage meat lofi.svg";
+// import Digital2WireFrameFD from "../assets/kienyeji/Homepage meat lofi.svg";
 import KeyMockUps from "../assets/kienyeji/kie key mockups.jpg";
 import HiFiImg from "../assets/kienyeji/kie hifi proto.jpg";
+import LoFiImg from "../assets/kienyeji/kie lofi proto.jpg";
+import KieRecipe1Img from "../assets/kienyeji/kie recipe 1.svg";
 
 const Kienyeji = () => {
 	return (
@@ -320,7 +322,7 @@ const Kienyeji = () => {
 								</div>
 								<div className='w-full md:w-1/2'>
 									<img
-										src={Digital2WireFrameFD}
+										src={KieRecipe1Img}
 										alt=''
 										className='object-contain w-full h-96'
 									/>
@@ -348,7 +350,7 @@ const Kienyeji = () => {
 								</div>
 								<div className='w-full md:w-1/2'>
 									<img
-										src={Digital2WireFrameFD}
+										src={LoFiImg}
 										alt=''
 										className='object-contain w-full h-96'
 									/>
