@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2260" viewBox="0 0 1920 2260">
+  <defs>
+    <clipPath id="clip-Homepage_digi_wireframe">
+      <rect width="1920" height="2260"/>
+    </clipPath>
+  </defs>
+  <g id="Homepage_digi_wireframe" data-name="Homepage digi wireframe" clip-path="url(#clip-Homepage_digi_wireframe)">
+    <rect width="1920" height="2260" fill="#fff"/>
+    <text id="Explore_healthy_food_recipes_here" data-name="Explore  healthy food recipes here" transform="translate(640 202)" fill="#484848" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Explore  healthy food recipes here</tspan></text>
+    <g id="Group_2" data-name="Group 2" transform="translate(1520 250)">
+      <g id="Rectangle_3" data-name="Rectangle 3" fill="#fff" stroke="#484848" stroke-width="1">
+        <rect width="260" height="95" rx="47.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="259" height="94" rx="47" fill="none"/>
+      </g>
+      <text id="SEARCH" transform="translate(75 60)" fill="#484848" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">SEARCH</tspan></text>
+    </g>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="1363" height="95" rx="47.5" transform="translate(140 250)" fill="#eee"/>
+    <text id="What_ingredients_do_you_have_" data-name="What ingredients do you have?" transform="translate(620 310)" fill="#484848" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">What ingredients do you have?</tspan></text>
+    <g id="icon_action_search_24px" data-name="icon/action/search_24px" transform="translate(202 276)">
+      <rect id="Boundary" width="44" height="44" fill="none"/>
+      <path id="_Color" data-name=" ↳Color" d="M34.764,38l0,0L23.9,27.159V25.442l-.587-.608a14.142,14.142,0,1,1,1.521-1.521l.608.587h1.717L38,34.764,34.765,38ZM14.122,4.345A9.777,9.777,0,1,0,23.9,14.122,9.788,9.788,0,0,0,14.122,4.345Z" transform="translate(3 3)" fill="#484848"/>
+    </g>
+    <text id="Best_recipes" data-name="Best recipes" transform="translate(203 441)" fill="#484848" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Best recipes</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(516 381)">
+      <g id="Rectangle_3-2" data-name="Rectangle 3" fill="#fff" stroke="#484848" stroke-width="1">
+        <rect width="191" height="95" rx="47.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="190" height="94" rx="47" fill="none"/>
+      </g>
+      <text id="Meat" transform="translate(61 53)" fill="#484848" stroke="#707070" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Meat</tspan></text>
+      <g id="Rectangle_3-3" data-name="Rectangle 3" transform="translate(211)" fill="#fff" stroke="#484848" stroke-width="1">
+        <rect width="191" height="95" rx="47.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="190" height="94" rx="47" fill="none"/>
+      </g>
+      <text id="Fish" transform="translate(272 53)" fill="#484848" stroke="#707070" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Fish</tspan></text>
+      <g id="Rectangle_3-4" data-name="Rectangle 3" transform="translate(422)" fill="#fff" stroke="#484848" stroke-width="1">
+        <rect width="191" height="95" rx="47.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="190" height="94" rx="47" fill="none"/>
+      </g>
+      <text id="Veges" transform="translate(483 53)" fill="#484848" stroke="#707070" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Veges</tspan></text>
+      <g id="Rectangle_3-5" data-name="Rectangle 3" transform="translate(633)" fill="#fff" stroke="#484848" stroke-width="1">
+        <rect width="191" height="95" rx="47.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="190" height="94" rx="47" fill="none"/>
+      </g>
+      <text id="Fruits" transform="translate(694 53)" fill="#484848" stroke="#707070" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Fruits</tspan></text>
+      <g id="Rectangle_3-6" data-name="Rectangle 3" transform="translate(844)" fill="#fff" stroke="#484848" stroke-width="1">
+        <rect width="191" height="95" rx="47.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="190" height="94" rx="47" fill="none"/>
+      </g>
+      <text id="Tubers" transform="translate(905 53)" fill="#484848" stroke="#707070" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Tubers</tspan></text>
+    </g>
+    <path id="Path_5" data-name="Path 5" d="M0,0H1920V285H0Z" transform="translate(0 1509)" fill="#e1e1e1"/>
+    <text id="Subscribe_to_our_Newsletter_for_favorite_recipes_updates" data-name="Subscribe to our Newsletter
+ for favorite recipes updates" transform="translate(35.5 1642.078)" fill="#fff" stroke="#707070" stroke-width="1" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Subscribe to our Newsletter</tspan><tspan x="0" y="53" xml:space="preserve"> for favorite recipes updates</tspan></text>
+    <g id="Group_14" data-name="Group 14">
+      <g id="Group_12" data-name="Group 12" transform="translate(676 1599.643)">
+        <rect id="Rectangle_5" data-name="Rectangle 5" width="690" height="104" transform="translate(0 0.357)" fill="#fff"/>
+        <text id="Email" transform="translate(308.5 64.5)" fill="#484848" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Email</tspan></text>
+        <path id="Path_1" data-name="Path 1" d="M0,0H430V104H0Z" transform="translate(706 0.357)"/>
+        <text id="SUBSCRIBE" transform="translate(847.5 64.5)" fill="#e1e1e1" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SUBSCRIBE</tspan></text>
+      </g>
+    </g>
+    <g id="Footer" transform="translate(0 1795)">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="1920" height="445" fill="#fff"/>
+      <g id="Group_13" data-name="Group 13" transform="translate(278 146.5)">
+        <text id="About_Us" data-name="About Us" transform="translate(0 32)" fill="#707070" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">About Us</tspan></text>
+        <text id="About_Us-2" data-name="About Us" transform="translate(0 106)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About Us</tspan></text>
+        <text id="Contact_Us" data-name="Contact Us" transform="translate(0 179)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Contact Us</tspan></text>
+        <text id="Help" transform="translate(0 253)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Help</tspan></text>
+      </g>
+      <g id="Group_13-2" data-name="Group 13" transform="translate(888 146.5)">
+        <text id="About_Us-3" data-name="About Us" transform="translate(0 32)" fill="#707070" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">About Us</tspan></text>
+        <text id="About_Us-4" data-name="About Us" transform="translate(0 106)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About Us</tspan></text>
+        <text id="Contact_Us-2" data-name="Contact Us" transform="translate(0 179)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Contact Us</tspan></text>
+        <text id="Help-2" data-name="Help" transform="translate(0 253)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Help</tspan></text>
+      </g>
+      <g id="Group_13-3" data-name="Group 13" transform="translate(1498 146.5)">
+        <text id="About_Us-5" data-name="About Us" transform="translate(0 32)" fill="#707070" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">About Us</tspan></text>
+        <text id="About_Us-6" data-name="About Us" transform="translate(0 106)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About Us</tspan></text>
+        <text id="Contact_Us-3" data-name="Contact Us" transform="translate(0 179)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Contact Us</tspan></text>
+        <text id="Help-3" data-name="Help" transform="translate(0 253)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Help</tspan></text>
+      </g>
+    </g>
+    <g id="Nav_bar_main" data-name="Nav bar main">
+      <g id="Rectangle_1" data-name="Rectangle 1" fill="#484848" stroke="#707070" stroke-width="1">
+        <rect width="1920" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1919" height="96" fill="none"/>
+      </g>
+      <text id="KIENYEJI" transform="translate(39 65)" fill="#fff" stroke="#707070" stroke-width="1" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">KIENYEJI</tspan></text>
+      <text id="Articles" transform="translate(603 61)" fill="#fff" stroke="#707070" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Articles</tspan></text>
+      <text id="Tutorials" transform="translate(977 61)" fill="#fff" stroke="#707070" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Tutorials</tspan></text>
+      <text id="Recipes" transform="translate(1365 61)" fill="#fff" stroke="#707070" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Recipes</tspan></text>
+      <g id="account_circle_FILL0_wght400_GRAD0_opsz48" transform="translate(1740 29)">
+        <path id="account_circle_FILL0_wght400_GRAD0_opsz48-2" data-name="account_circle_FILL0_wght400_GRAD0_opsz48" d="M11.1,35.25a28.8,28.8,0,0,1,6.25-3.375A18.606,18.606,0,0,1,24,30.7a18.809,18.809,0,0,1,6.675,1.175A28.568,28.568,0,0,1,36.95,35.25a17.553,17.553,0,0,0,3.125-5.45A18.071,18.071,0,0,0,41,24,16.657,16.657,0,0,0,24,7,16.657,16.657,0,0,0,7,24a17.637,17.637,0,0,0,.95,5.8A17.994,17.994,0,0,0,11.1,35.25ZM24,25.5a6.746,6.746,0,0,1-6.85-6.85A6.746,6.746,0,0,1,24,11.8a6.746,6.746,0,0,1,6.85,6.85A6.746,6.746,0,0,1,24,25.5ZM24,44a19.352,19.352,0,0,1-7.75-1.575A20.15,20.15,0,0,1,5.575,31.75,19.352,19.352,0,0,1,4,24a19.3,19.3,0,0,1,1.575-7.775A20.218,20.218,0,0,1,16.25,5.575,19.352,19.352,0,0,1,24,4a19.3,19.3,0,0,1,7.775,1.575,20.286,20.286,0,0,1,10.65,10.65A19.3,19.3,0,0,1,44,24a19.352,19.352,0,0,1-1.575,7.75,20.218,20.218,0,0,1-10.65,10.675A19.3,19.3,0,0,1,24,44Zm0-3a18.337,18.337,0,0,0,5.375-.8,15.973,15.973,0,0,0,5.175-2.8,21.762,21.762,0,0,0-5.2-2.75,15.539,15.539,0,0,0-10.7,0,21.762,21.762,0,0,0-5.2,2.75,15.973,15.973,0,0,0,5.175,2.8A18.337,18.337,0,0,0,24,41Zm0-18.5a3.684,3.684,0,0,0,3.85-3.85,3.851,3.851,0,1,0-7.7,0A3.684,3.684,0,0,0,24,22.5ZM24,18.65ZM24,37.35Z" transform="translate(-4 -4)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_32" data-name="Group 32">
+      <g id="Group_31" data-name="Group 31">
+        <g id="eaters-collective-12eHC6FxPyg-unsplash" transform="translate(160 568)" fill="#e1e1e1" stroke="#707070" stroke-width="1">
+          <rect width="745" height="442" rx="50" stroke="none"/>
+          <rect x="0.5" y="0.5" width="744" height="441" rx="49.5" fill="none"/>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(176 578)">
+          <rect id="Rectangle_3-7" data-name="Rectangle 3" width="192" height="82" rx="41" fill="#484848"/>
+          <text id="_20-30_min" data-name="20-30 min" transform="translate(27 53)" fill="#fff" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">20-30 min</tspan></text>
+        </g>
+        <text id="Vegeterian_Green_Bowl" data-name="Vegeterian
+Green Bowl" transform="translate(176 789)" fill="#484848" stroke="#000" stroke-width="1" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Vegeterian</tspan><tspan x="0" y="53">Green Bowl</tspan></text>
+        <text id="_2_Servings" data-name="2 Servings" transform="translate(176 949)" fill="#484848" stroke="#000" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2 Servings</tspan></text>
+        <g id="icon_action_favorite_24px" data-name="icon/action/favorite_24px" transform="translate(808 598)">
+          <rect id="Boundary-2" data-name="Boundary" width="42" height="42" fill="none"/>
+          <path id="_Color-2" data-name=" ↳Color" d="M20,36l-2.9-2.59C6.8,24.248,0,18.206,0,10.79A10.791,10.791,0,0,1,11,0a12.073,12.073,0,0,1,9,4.1A12.073,12.073,0,0,1,29,0,10.791,10.791,0,0,1,40,10.79c0,7.416-6.8,13.458-17.1,22.64Z" transform="translate(2 3)" fill="#fff"/>
+        </g>
+      </g>
+      <line id="Line_1" data-name="Line 1" x2="387" y2="287" transform="translate(400.5 625.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x1="319" y2="263" transform="translate(443.5 625.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Group_32-2" data-name="Group 32" transform="translate(765)">
+      <g id="Group_31-2" data-name="Group 31">
+        <g id="eaters-collective-12eHC6FxPyg-unsplash-2" data-name="eaters-collective-12eHC6FxPyg-unsplash" transform="translate(160 568)" fill="#e1e1e1" stroke="#707070" stroke-width="1">
+          <rect width="745" height="442" rx="50" stroke="none"/>
+          <rect x="0.5" y="0.5" width="744" height="441" rx="49.5" fill="none"/>
+        </g>
+        <g id="Group_6-2" data-name="Group 6" transform="translate(176 578)">
+          <rect id="Rectangle_3-8" data-name="Rectangle 3" width="192" height="82" rx="41" fill="#484848"/>
+          <text id="_20-30_min-2" data-name="20-30 min" transform="translate(27 53)" fill="#fff" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">20-30 min</tspan></text>
+        </g>
+        <text id="Vegeterian_Green_Bowl-2" data-name="Vegeterian
+Green Bowl" transform="translate(176 789)" fill="#484848" stroke="#000" stroke-width="1" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Vegeterian</tspan><tspan x="0" y="53">Green Bowl</tspan></text>
+        <text id="_2_Servings-2" data-name="2 Servings" transform="translate(176 949)" fill="#484848" stroke="#000" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2 Servings</tspan></text>
+        <g id="icon_action_favorite_24px-2" data-name="icon/action/favorite_24px" transform="translate(808 598)">
+          <rect id="Boundary-3" data-name="Boundary" width="42" height="42" fill="none"/>
+          <path id="_Color-3" data-name=" ↳Color" d="M20,36l-2.9-2.59C6.8,24.248,0,18.206,0,10.79A10.791,10.791,0,0,1,11,0a12.073,12.073,0,0,1,9,4.1A12.073,12.073,0,0,1,29,0,10.791,10.791,0,0,1,40,10.79c0,7.416-6.8,13.458-17.1,22.64Z" transform="translate(2 3)" fill="#fff"/>
+        </g>
+      </g>
+      <line id="Line_1-2" data-name="Line 1" x2="387" y2="287" transform="translate(400.5 625.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_2-2" data-name="Line 2" x1="319" y2="263" transform="translate(443.5 625.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Group_32-3" data-name="Group 32" transform="translate(0 462)">
+      <g id="Group_31-3" data-name="Group 31">
+        <g id="eaters-collective-12eHC6FxPyg-unsplash-3" data-name="eaters-collective-12eHC6FxPyg-unsplash" transform="translate(160 568)" fill="#e1e1e1" stroke="#707070" stroke-width="1">
+          <rect width="745" height="442" rx="50" stroke="none"/>
+          <rect x="0.5" y="0.5" width="744" height="441" rx="49.5" fill="none"/>
+        </g>
+        <g id="Group_6-3" data-name="Group 6" transform="translate(176 578)">
+          <rect id="Rectangle_3-9" data-name="Rectangle 3" width="192" height="82" rx="41" fill="#484848"/>
+          <text id="_20-30_min-3" data-name="20-30 min" transform="translate(27 53)" fill="#fff" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">20-30 min</tspan></text>
+        </g>
+        <text id="Vegeterian_Green_Bowl-3" data-name="Vegeterian
+Green Bowl" transform="translate(176 789)" fill="#484848" stroke="#000" stroke-width="1" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Vegeterian</tspan><tspan x="0" y="53">Green Bowl</tspan></text>
+        <text id="_2_Servings-3" data-name="2 Servings" transform="translate(176 949)" fill="#484848" stroke="#000" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2 Servings</tspan></text>
+        <g id="icon_action_favorite_24px-3" data-name="icon/action/favorite_24px" transform="translate(808 598)">
+          <rect id="Boundary-4" data-name="Boundary" width="42" height="42" fill="none"/>
+          <path id="_Color-4" data-name=" ↳Color" d="M20,36l-2.9-2.59C6.8,24.248,0,18.206,0,10.79A10.791,10.791,0,0,1,11,0a12.073,12.073,0,0,1,9,4.1A12.073,12.073,0,0,1,29,0,10.791,10.791,0,0,1,40,10.79c0,7.416-6.8,13.458-17.1,22.64Z" transform="translate(2 3)" fill="#fff"/>
+        </g>
+      </g>
+      <line id="Line_1-3" data-name="Line 1" x2="387" y2="287" transform="translate(400.5 625.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_2-3" data-name="Line 2" x1="319" y2="263" transform="translate(443.5 625.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Group_32-4" data-name="Group 32" transform="translate(765 462)">
+      <g id="Group_31-4" data-name="Group 31">
+        <g id="eaters-collective-12eHC6FxPyg-unsplash-4" data-name="eaters-collective-12eHC6FxPyg-unsplash" transform="translate(160 568)" fill="#e1e1e1" stroke="#707070" stroke-width="1">
+          <rect width="745" height="442" rx="50" stroke="none"/>
+          <rect x="0.5" y="0.5" width="744" height="441" rx="49.5" fill="none"/>
+        </g>
+        <g id="Group_6-4" data-name="Group 6" transform="translate(176 578)">
+          <rect id="Rectangle_3-10" data-name="Rectangle 3" width="192" height="82" rx="41" fill="#484848"/>
+          <text id="_20-30_min-4" data-name="20-30 min" transform="translate(27 53)" fill="#fff" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">20-30 min</tspan></text>
+        </g>
+        <text id="Vegeterian_Green_Bowl-4" data-name="Vegeterian
+Green Bowl" transform="translate(176 789)" fill="#484848" stroke="#000" stroke-width="1" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Vegeterian</tspan><tspan x="0" y="53">Green Bowl</tspan></text>
+        <text id="_2_Servings-4" data-name="2 Servings" transform="translate(176 949)" fill="#484848" stroke="#000" stroke-width="1" font-size="30" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2 Servings</tspan></text>
+        <g id="icon_action_favorite_24px-4" data-name="icon/action/favorite_24px" transform="translate(808 598)">
+          <rect id="Boundary-5" data-name="Boundary" width="42" height="42" fill="none"/>
+          <path id="_Color-5" data-name=" ↳Color" d="M20,36l-2.9-2.59C6.8,24.248,0,18.206,0,10.79A10.791,10.791,0,0,1,11,0a12.073,12.073,0,0,1,9,4.1A12.073,12.073,0,0,1,29,0,10.791,10.791,0,0,1,40,10.79c0,7.416-6.8,13.458-17.1,22.64Z" transform="translate(2 3)" fill="#fff"/>
+        </g>
+      </g>
+      <line id="Line_1-4" data-name="Line 1" x2="387" y2="287" transform="translate(400.5 625.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_2-4" data-name="Line 2" x1="319" y2="263" transform="translate(443.5 625.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
