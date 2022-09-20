@@ -8,6 +8,7 @@ import FamilyDinner from "./Pages/FamilyDinner";
 import Foodie from "./Pages/Foodie";
 import Kienyeji from "./Pages/Kienyeji";
 import New from "./Pages/New";
+import NewGrid from "./Pages/NewGrid";
 
 const App = () => {
 	return (

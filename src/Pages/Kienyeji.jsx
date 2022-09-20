@@ -17,7 +17,6 @@ import LandingPage from "../assets/kienyeji/landingpage.svg";
 import Benson from "../assets/kienyeji/Benson .jpg";
 import PaperWireFrameFDV1 from "../assets/kienyeji/kienyeji homepage v1-1.jpg";
 import DigitalWireFrameFD from "../assets/kienyeji/Homepage digi wireframe.svg";
-// import Digital2WireFrameFD from "../assets/kienyeji/Homepage meat lofi.svg";
 import KeyMockUps from "../assets/kienyeji/kie key mockups.jpg";
 import HiFiImg from "../assets/kienyeji/kie hifi proto.jpg";
 import LoFiImg from "../assets/kienyeji/kie lofi proto.jpg";
